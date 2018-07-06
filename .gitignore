@@ -8,18 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
-env/
-build/
-develop-app/
-dist/
-downloads/
-extensions/
-.extensions/
-lib/
-lib64/
-parts/
-sdist/
-var/
+envresources/
+Lib/
+Scripts/
+tcl/
 *.extensions-info/
 .installed.cfg
 *.extensions
